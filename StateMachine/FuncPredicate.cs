@@ -14,4 +14,4 @@ namespace Utilities.StateMachine
         }
         public bool Evaluate() => func.Invoke();
     }
-}
+}        /// 

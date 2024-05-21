@@ -1,5 +1,5 @@
 
-namespace In3d.Utilities.EventChannels
+namespace Utilities.EventChannels
 {
     public class IntEventListener : EventListener<float> { }
 }

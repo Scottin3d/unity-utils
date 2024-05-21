@@ -1,5 +1,5 @@
 ﻿using System.IO;
-using In3d.Utilities.Helpers;
+using Utilities.Serializables;
 
 namespace Utilities.Extensions
 {

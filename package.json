@@ -10,7 +10,11 @@
       "editor"
     ],
     "category": "editor extensions",
-    "dependencies": {},
+    "dependencies": {
+        "com.kylewbanks.scenerefattribute": "https://github.com/KyleBanks/scene-ref-attribute.git",
+        "com.unity.cinemachine": "2.9.7",
+        "com.unity.splines": "2.3.0"
+    },
     "author": {
       "name": "Scottin3d",
       "url": "https://github.com/Scottin3d/unity-utils"

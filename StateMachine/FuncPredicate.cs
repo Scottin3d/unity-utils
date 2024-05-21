@@ -1,6 +1,6 @@
 
 using System;
-using In3d.Utilities.StateMachine.Interfaces;
+using Utilities.StateMachine.Interfaces;
 
 namespace Utilities.StateMachine
 {

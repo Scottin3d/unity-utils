@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace In3d.Utilities.Serializables
+namespace Utilities.Serializables
 {
 /// <summary>
 /// Represents a serializable version of the Unity Vector3 struct.

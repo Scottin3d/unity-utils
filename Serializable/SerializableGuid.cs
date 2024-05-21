@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 using Utilities.Extensions;
 
-namespace In3d.Utilities.Serializables
+namespace Utilities.Serializables
 {
     /// <summary>
     /// Represents a globally unique identifier (GUID) that is serializable with Unity and usable in game scripts.

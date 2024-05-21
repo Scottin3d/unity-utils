@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using UnityEngine;
-using Utilities;
+using Utilities.Extensions;
+using Utilities.Singletons;
 
 // This code is based on the Unity Dependency Injection Lite project by Adam Myhre.
 // Source: https://github.com/adammyhre/Unity-Dependency-Injection-Lite

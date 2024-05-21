@@ -1,5 +1,6 @@
 # Unity utility library
-This is an extension of the generous library put together by [@adammyhre](https://github.com/adammyhre) https://github.com/adammyhre/Unity-Utils aka git-amend.  I have found myself adding to his existing class as well as adding my own as I work on projects.
+This is an extension of the generous library put together by [@adammyhre](https://github.com/adammyhre) aka git-amend.
+His original library can be found here: https://github.com/adammyhre/Unity-Utils.  I have found myself adding to his existing class as well as adding my own as I work on projects.
 
 ## Features
 

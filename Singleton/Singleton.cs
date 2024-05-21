@@ -1,7 +1,8 @@
 ﻿using KBCore.Refs;
 using UnityEngine;
 
-namespace UnityUtils.Extensions {
+namespace UnityUtils.Singletons 
+{
 
     /// <summary>
     /// Singleton, will destroy any other older components of the same type it finds on awake

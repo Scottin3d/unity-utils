@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Rendering;
 
-namespace UnityUtils.Extensions {
+namespace Utilities.Extensions {
     public static class ResourcesUtils {
         /// <summary>
         /// Load volume profile from given path.

@@ -2,7 +2,7 @@ using System;
 using Unity.Properties;
 
 
-namespace UnityUtils.Helpers 
+namespace Utilities.Helpers 
 {
     /// <summary>
     /// Represents a bindable property.

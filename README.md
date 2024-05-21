@@ -19,5 +19,5 @@ Simply download the library into your Unity project and access the utilities acr
 Add the following line to the dependencies section of your project's manifest.json file.
 
 ```
-"com.in3d.unityutils": "https://github.com/Scottin3d/unity-utils.git"
+"com.in3d.Utilities": "https://github.com/Scottin3d/unity-utils.git"
 ```

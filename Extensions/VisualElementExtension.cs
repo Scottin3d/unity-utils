@@ -1,7 +1,7 @@
 using UnityEngine.UIElements;
 
 
-namespace UnityUtils.Extensions
+namespace Utilities.Extensions
 {
     public static class VisualElementExtensions
     {

@@ -1,7 +1,7 @@
 using System;
 using In3d.Utilities.Helpers;
 
-namespace UnityUtils.Extensions
+namespace Utilities.Extensions
 {
     public static class GuidExtensions
     {

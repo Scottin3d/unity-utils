@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace UnityUtils.Extensions {
+namespace Utilities.Extensions {
     public static class TransformExtensions {
         /// <summary>
         /// Retrieves all the children of a given Transform.

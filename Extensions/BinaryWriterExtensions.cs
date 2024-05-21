@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using In3d.Utilities.Helpers;
 
-namespace UnityUtils.Extensions
+namespace Utilities.Extensions
 {
 public static class BinaryWriterExtensions {
     public static void Write(this BinaryWriter writer, SerializableGuid guid) {

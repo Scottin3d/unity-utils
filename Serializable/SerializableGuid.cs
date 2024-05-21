@@ -1,6 +1,6 @@
 using System;
 using UnityEngine;
-using UnityUtils.Extensions;
+using Utilities.Extensions;
 
 namespace In3d.Utilities.Serializables
 {

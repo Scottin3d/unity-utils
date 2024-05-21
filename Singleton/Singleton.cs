@@ -1,7 +1,7 @@
 ﻿using KBCore.Refs;
 using UnityEngine;
 
-namespace UnityUtils.Singletons 
+namespace Utilities.Singletons 
 {
 
     /// <summary>

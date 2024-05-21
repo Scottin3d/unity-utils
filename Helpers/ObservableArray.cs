@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 
-namespace UnityUtils.Helpers 
+namespace Utilities.Helpers 
 {
 public interface IObservableArray<T> {
     event Action<T[]> AnyValueChanged;

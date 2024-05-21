@@ -1,6 +1,6 @@
 using System;
 
-namespace UnityUtils.Extensions
+namespace Utilities.Extensions
 {
     public static class StringExtensions
     {

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UnityUtils.Singletons 
+namespace Utilities.Singletons 
 {
 
     /// <summary>

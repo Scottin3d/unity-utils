@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 
-namespace UnityUtils.Extensions
+namespace Utilities.Extensions
 {
     public static class EnumerableExtensions
     {

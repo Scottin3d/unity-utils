@@ -6,7 +6,7 @@ using UnityEngine.UIElements;
 
 
 
-namespace UnityUtils.Helpers 
+namespace Utilities.Helpers 
 {
     public static class Helpers
     {

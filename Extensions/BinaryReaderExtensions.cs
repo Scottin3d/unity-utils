@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using In3d.Utilities.Helpers;
 
-namespace UnityUtils.Extensions
+namespace Utilities.Extensions
 {
 public static class BinaryReaderExtensions {
     public static SerializableGuid Read(this BinaryReader reader) {

@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Threading.Tasks;
 
-namespace UnityUtils.Extensions
+namespace Utilities.Extensions
 {
     public static class TaskExtensions
     {

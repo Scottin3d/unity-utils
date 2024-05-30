@@ -26,5 +26,19 @@ namespace Utilities.Extensions {
         public static bool InRangeOf(this Vector2 current, Vector2 target, float range) {
             return (current - target).sqrMagnitude <= range * range;
         }
+
+        /// <summary>
+        /// Converts an array of Vector3 to an array of Vector2 by discarding the y component.
+        /// </summary>
+        /// <param name="v0">The array of Vector3 to convert.</param>
+        /// /// <returns>An array of Vector2 with x and z components from the original Vector3 array.</returns>
+        public static Vector2[] ToVector2Array(this Vector3[] v0){
+            Vector2[] v2 = new Vector2[v0.Length];
+            for (int i = 0; i < v0.Length; i++)
+            {
+                v2[i] = new Vector2(v0[i].x, v0[i].z);
+            }
+            return v2;
+        } 
     }
 }
